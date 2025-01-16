@@ -1,5 +1,5 @@
-# Oxygen
-Программное обеспечение для инженерных вычислений, научно-естественных наук, математики и алгоритмов <!-- описание репозитория -->
+# Assignments from 1 semester
+Программное обеспечение и создание сайтов <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/OkulusDev-Oxygen-Oxygen)
 ![GitHub top language](https://img.shields.io/github/languages/top/OkulusDev/Oxygen)
@@ -9,6 +9,13 @@
 
 ![Logotype](./docs/wall.jpg)
 
+# Сайт по ПП
+http://t97756vq.beget.tech/
+# Twine по ПП
+https://vipperswag.github.io/Practica2/PP_TW.html
+#
+#
+#
 <!--Установка-->
 ## Установка (Linux)
 У вас должны быть установлены [зависимости проекта](https://github.com/OkulusDev/Oxygen#зависимости)
