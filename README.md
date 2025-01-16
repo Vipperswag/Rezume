@@ -13,9 +13,13 @@
 http://t97756vq.beget.tech/
 # Twine по ПП
 https://vipperswag.github.io/Practica2/PP_TW.html
-#
-#
-#
+# Общая БД по ПП
+https://github.com/Vipperswag/Practica2/blob/main/BD.odb
+# Справка Ермилова
+https://drive.google.com/drive/folders/1QZQl71UYVsK2WApHiiOvtQgicZ8PCsQZ?usp=drive_link
+# БД по работе в команде
+https://vipperswag.github.io/Algoritmizatsia_mironov.d.r/WW.html
+
 <!--Установка-->
 ## Установка (Linux)
 У вас должны быть установлены [зависимости проекта](https://github.com/OkulusDev/Oxygen#зависимости)
