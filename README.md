@@ -1,4 +1,4 @@
-# Assignments from 1 semester
+# Задания за 1 семестр 🎄
 Программное обеспечение и создание сайтов <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/OkulusDev-Oxygen-Oxygen)
@@ -7,21 +7,24 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/Oxygen)
 
-![Logotype](./docs/wall.jpg)
+<div>
+  <img src="https://github.com/Vipperswag/Practica/blob/main/эщкерямбус10.jpg" width="800" height="200"/>
+</div>
 
-# Сайт по ПП
+# Сайт по ПП 🧠
 http://t97756vq.beget.tech/
-# Twine по ПП
+# Twine по ПП 🏆
 https://vipperswag.github.io/Practica2/PP_TW.html
-# Общая БД по ПП
+# Общая БД по ПП 👽
 https://github.com/Vipperswag/Practica2/blob/main/BD.odb
-# Справка Ермилова
+# Справка Ермилова 😈
 https://drive.google.com/drive/folders/1QZQl71UYVsK2WApHiiOvtQgicZ8PCsQZ?usp=drive_link
-# БД по работе в команде
+# Twine по работе в команде ☠️
 https://vipperswag.github.io/Algoritmizatsia_mironov.d.r/WW.html
 
+
 <!--Установка-->
-## Установка (Linux)
+## Установка Linux (Бонус)
 У вас должны быть установлены [зависимости проекта](https://github.com/OkulusDev/Oxygen#зависимости)
 
 1. Клонирование репозитория 
