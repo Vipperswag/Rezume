@@ -64,3 +64,5 @@ https://vipperswag.github.io/Algoritmizatsia_mironov.d.r/WW.html
 4. сайты для администрации: видео интревью, памятная дата и тд.
 5. работа с mysql
 6. компьютерные сети 
+
+https://tbolimpiada.ru/onenews/241
