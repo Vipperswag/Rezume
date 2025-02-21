@@ -66,3 +66,5 @@ https://vipperswag.github.io/Algoritmizatsia_mironov.d.r/WW.html
 6. компьютерные сети 
 
 https://tbolimpiada.ru/onenews/241
+https://stepik.org/course/125587/syllabus
+https://stepik.org/course/134942/syllabus
